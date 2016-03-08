@@ -1,5 +1,8 @@
 # logger.js
 
+[![Build Status](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/omichelsen/logger)
+[![Coverage Status](https://coveralls.io/repos/github/omichelsen/logger/badge.svg?branch=master)](https://coveralls.io/github/omichelsen/logger?branch=master)
+
 Simple logger can be used as wrapper for console, adds log output levels, multiple targets and history. Will default to use `console`, but you can add your own custom targets instead.
 
 This library is written entirely in ECMAScript 6+, so if you need support for older browsers you need something like [Babel](http://babeljs.io/).
