@@ -1,7 +1,7 @@
 # logger.js
 
 [![Build Status](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/omichelsen/logger)
-[![Coverage Status](https://coveralls.io/repos/github/omichelsen/logger/badge.svg?branch=master)](https://coveralls.io/github/omichelsen/logger?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/omichelsen/logger/badge.svg?branch=master)](https://coveralls.io/github/omichelsen/logger?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/omichelsen/logger.svg)](https://greenkeeper.io/)
 
 Simple logger can be used as wrapper for console, adds log output levels, multiple targets and history. Will default to use `console`, but you can add your own custom targets instead.
 
